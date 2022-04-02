@@ -195,11 +195,11 @@ feed:
 
 
 algolia:
-  appId: "Z7A3XW4R2I"
-  apiKey: "12db1ad54372045549ef465881c17e743"
-  adminApiKey: "40321c7c207e7f73b63a19aa24c4761b"
+  appId: "XA4XSATM7Q"
+  apiKey: "94ace3bd158394363f73fcfb30b1584e"
+  adminApiKey: "f92d00e54fdce3dba0da5ce79ae85a61"
   chunkSize: 5000
-  indexName: "my-hexo-blog"
+  indexName: "zipblog"
   fields:
     - content:strip:truncate,0,500
     - excerpt:strip
@@ -209,6 +209,7 @@ algolia:
     - slug
     - tags
     - title
+    - path #必须配置
 
 symbols_count_time:
   symbols: true
@@ -225,5 +226,5 @@ admin:
   username: admin
   password_hash: $2a$10$DOoqGb4kUVvaLSIQriuZoOulyI0HIjr6xj/Im1r6x9OspXwt4pSpC
   secret: hexo-admin
-
+  deployCommand: 'hexo d'
 
