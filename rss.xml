@@ -13,9 +13,9 @@
         <pubDate>Sat, 02 Apr 2022 15:23:00 +0800</pubDate>
         <lastBuildDate>Sat, 02 Apr 2022 15:23:00 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2022/04/02/demo-1/</guid>
+            <guid isPermalink="true">http://example.com/2022/04/02/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B/</guid>
             <title>个人博客的开发流程</title>
-            <link>http://example.com/2022/04/02/demo-1/</link>
+            <link>http://example.com/2022/04/02/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E5%BC%80%E5%8F%91%E6%B5%81%E7%A8%8B/</link>
             <pubDate>Sat, 02 Apr 2022 15:23:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;网上有许多开源博客框架，可以让我们快速的搭建自己的个人网站。常见的博客框架有：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly96aHVhbmxhbi56aGlodS5jb20vcC8zNDIxMTcwOQ==&#34;&gt;Typecho&lt;/span&gt;，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jbi53b3JkcHJlc3Mub3JnLw==&#34;&gt;Wordpress&lt;/span&gt;，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oYWxvLnJ1bi8=&#34;&gt;Halo&lt;/span&gt;，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9iM2xvZy5vcmcvc29sby8=&#34;&gt;Solo&lt;/span&gt;，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92dWVwcmVzcy52dWVqcy5vcmcvemgv&#34;&gt;Vuepress&lt;/span&gt;。这些都可以大大简化我们搭建个人网站的流程，并且可以自定义我们喜欢的主题。个人网站的好处就是可以让我们可以更加自由的写自己的文章，如果有兴趣开发自己的博客框架，就可以参考以下的建站流程&lt;/p&gt;
 &lt;h1 id=&#34;开发个人博客&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#开发个人博客&#34;&gt;#&lt;/a&gt; 开发个人博客&lt;/h1&gt;
