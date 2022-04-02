@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords:
 author: zip
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -219,5 +219,11 @@ symbols_count_time:
   awl: 4
   wpm: 275
   suffix: "mins."
+
+# hexo-admin authentification
+admin:
+  username: admin
+  password_hash: $2a$10$DOoqGb4kUVvaLSIQriuZoOulyI0HIjr6xj/Im1r6x9OspXwt4pSpC
+  secret: hexo-admin
 
 
